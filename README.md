@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-bn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning symfony
+- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
 
